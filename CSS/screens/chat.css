@@ -171,7 +171,6 @@
       transform: none;
     }
   }
-}
 .message-row--own {
   justify-content: flex-end;
   animation: message-row--own 1s ease-in-out;
